@@ -1,0 +1,10 @@
+version: "0.0.1"
+license: "MIT"
+maintainer: Filip Dobrovolny <dobrovolny.filip@gmail.com>
+description: "FreeRTOS AWS Device Shadow library ported as ESP-IDF component."
+url: "https://github.com/fdobrovolny/esp-freertos-aws-device-shadow"
+repository: https://github.com/fdobrovolny/esp-freertos-aws-device-shadow
+dependencies:
+  idf:
+    version: ">=4.3"
+    require: public
